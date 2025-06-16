@@ -17,8 +17,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/миллионер.git
-cd миллионер
+git clone https://github.com/rikovmike/Zerocoder-FinalProject.git
+cd Zerocoder-FinalProject
 ```
 
 2. Установите зависимости:
