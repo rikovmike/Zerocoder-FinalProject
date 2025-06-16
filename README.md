@@ -26,11 +26,6 @@ cd Zerocoder-FinalProject
 pip install -r requirements.txt
 ```
 
-3. (Опционально) Для сборки в exe:
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed main.py
-```
 
 ## 🚀 Запуск игры
 ```bash
